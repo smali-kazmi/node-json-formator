@@ -1,0 +1,16 @@
+{
+  "name": "json-formator",
+  "version": "0.0.1",
+  "description": "It will format json string",
+  "main": "index.js",
+  "repository": "https://github.com/smali-kazmi/node-json-formator.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "formator"
+  ],
+  "author": "SM@K",
+  "license": "ISC"
+}
